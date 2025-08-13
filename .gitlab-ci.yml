@@ -4,5 +4,5 @@ stages:
 test_job:
   stage: test
   script:
-    - echo "CI/CD работает hello !"
+    - echo "CI/CD работает hello iiii!"
 
